@@ -1,5 +1,5 @@
-# list-of-mastodon-clients
-A list of Mastodon clients.
+# Mastodon clients
+An incomplete list of Mastodon clients.
 
 | Client   | Platform    | Funding Model        | Problems | Features |
 | -------- | ----------- | -------------------- | -------- | -------- |
